@@ -139,3 +139,6 @@ gender_novels/corpora/gutenberg/texts
 *~*
 .idea/misc.xml
 .idea/computation_hist.iml
+djweb/dj_comp_hist/views.py
+djweb/dj_comp_hist/urls.py
+djweb/dj_comp_hist/models.py

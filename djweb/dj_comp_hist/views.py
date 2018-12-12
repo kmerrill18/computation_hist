@@ -18,6 +18,5 @@ def person(request, person_id):
     # return HttpResponse(response)
 
 
-
 def document(request, document_id):
     pass
